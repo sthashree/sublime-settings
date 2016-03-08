@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS Snippets",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Package Control",
+		"rsub",
+		"SFTP",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php",
+		"Trimmer"
+	]
+}
